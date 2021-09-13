@@ -1,10 +1,5 @@
-# Herbi
-
-<img src="images/svg/header_en.svg"></img>
-
-<table align="right">
- <tr><td><a href="README.md"><img src="images/us-flag.png" height="13"> English</a></td></tr>
-</table>
+<img src="images/svg/header_en.svg"></img>.\
+#Herbi Saptiko
 
 ### :space_invader: &nbsp;About Me
 
