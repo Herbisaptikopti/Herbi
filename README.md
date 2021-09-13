@@ -1,18 +1,15 @@
 ### :space_invader: &nbsp;About Me
 
-&nbsp;&nbsp;&nbsp;:technologist: &nbsp; currently a student at STKIP Nurul Huda Sukaraja.\
-&nbsp;&nbsp;&nbsp;:seedling: &nbsp; Love for science and innovation.\
-&nbsp;&nbsp;&nbsp;:heartbeat: &nbsp; Passionate with problem solving and daily routines automation.\
-&nbsp;&nbsp;&nbsp;:writing_hand: &nbsp; currently focusing on studying and working.\
-&nbsp;&nbsp;&nbsp;:hammer_and_wrench: &nbsp; learn coding since 2020 in software and website development.\
-&nbsp;&nbsp;&nbsp;:family_man_woman_girl_girl: &nbsp; Live in Indonesia with my beloved family.
+&nbsp;&nbsp;&nbsp;:technologist: &nbsp;               currently a student at STKIP Nurul Huda Sukaraja.\
+&nbsp;&nbsp;&nbsp;:seedling: &nbsp; &nbsp; &nbsp;  &nbsp;Love for science and innovation.\
+&nbsp;&nbsp;&nbsp;:heartbeat: &nbsp;&nbsp;&nbsp;&nbsp; &nbsp; Passionate with problem solving and daily routines automation.\
+&nbsp;&nbsp;&nbsp;:writing_hand: &nbsp;&nbsp; &nbsp; &nbsp; currently focusing on studying and working.\
+&nbsp;&nbsp;&nbsp;:hammer_and_wrench: &nbsp; &nbsp; &nbsp;&nbsp; learn coding since 2020 in software and website development.\
+&nbsp;&nbsp;&nbsp;:family_man_woman_girl_girl: &nbsp;&nbsp;&nbsp;&nbsp; Live in Indonesia with my beloved family.
 
 <p align="center">
-  <a href="mailto:brunotacca@gmail.com?subject=Olá%20Bruno%20Tacca"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://www.facebook.com/bruno.vitorellitacca"><img src="https://img.shields.io/badge/facebook-%233B5998.svg?&style=for-the-badge&logo=facebook&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://www.instagram.com/brunotacca/"><img src="https://img.shields.io/badge/instagram-%23dc2743.svg?&style=for-the-badge&logo=instagram&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/brunotacca/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-  </a>
+  <a href="https://web.facebook.com/herbi.saptiko.1/"><img src="https://img.shields.io/badge/facebook-%233B5998.svg?&style=for-the-badge&logo=facebook&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://www.instagram.com/herby_bj/"><img src="https://img.shields.io/badge/instagram-%23dc2743.svg?&style=for-the-badge&logo=instagram&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 
 <hr/>
