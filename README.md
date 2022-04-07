@@ -1,6 +1,6 @@
 ### :space_invader: &nbsp;About Me
 
-&nbsp;&nbsp;&nbsp;:technologist: &nbsp;               currently a student at STKIP Nurul Huda Sukaraja.\
+&nbsp;&nbsp;&nbsp;:technologist: &nbsp;               currently a student at Universitas Nurul Huda.\
 &nbsp;&nbsp;&nbsp;:seedling: &nbsp; &nbsp; &nbsp;  &nbsp;Love for science and innovation.\
 &nbsp;&nbsp;&nbsp;:heartbeat: &nbsp;&nbsp;&nbsp;&nbsp; &nbsp; Passionate with problem solving and daily routines automation.\
 &nbsp;&nbsp;&nbsp;:writing_hand: &nbsp;&nbsp; &nbsp; &nbsp; currently focusing on studying and working.\
